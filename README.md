@@ -11,3 +11,7 @@ TDI:
 4. How to "correctly" link javascript and CSS files to the html document. :P
 
 5. How to use basic Jquery and javascript together.
+
+6. How to set an overall background color without coloring the grid.
+
+7. How to add color and shadow effects.
