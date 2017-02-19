@@ -1,3 +1,7 @@
+body {
+	background-color:#ff00ff;
+}
+
 div{
 	display: block;
 }
@@ -6,6 +10,18 @@ h1 {
 	text-align:center;
 	font-size:50px;
 	font-family:"Comic Sans MS", cursive, sans-serif;
+	background-color:red;
+	color:#00ccff;
+	text-shadow:6px 4px black;
+}
+
+#pencil {
+	display:block;
+    float:right;
+    position:relative;
+    top:0px;
+    right:0px;
+	height: 100px;
 }
 
 #buttons {
